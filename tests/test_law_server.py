@@ -1,18 +1,12 @@
 """Tests for the law server MCP tools."""
-import sys
-from pathlib import Path
-
-# Ensure law-server is resolved first (conftest inserts multiple servers)
-_law_server_path = str(Path(__file__).parent.parent / "mcp-servers" / "law-server")
-if _law_server_path not in sys.path:
-    sys.path.insert(0, _law_server_path)
-else:
-    sys.path.remove(_law_server_path)
-    sys.path.insert(0, _law_server_path)
-
 import pytest
+from conftest import load_mcp_server
 
-from server import load_data, search_law, get_rights, legal_procedure
+server = load_mcp_server("law-server")
+load_data = server.load_data
+search_law = server.search_law
+get_rights = server.get_rights
+legal_procedure = server.legal_procedure
 
 
 @pytest.fixture
