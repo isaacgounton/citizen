@@ -33,19 +33,19 @@ def configure_mcp_servers():
 
     config.setdefault("tools", {})["mcpServers"] = {
         "law-server": {
-            "command": "python3",
+            "command": f"{sys.executable}",
             "args": [f"{project_root}/mcp-servers/law-server/server.py"]
         },
         "civic-guide": {
-            "command": "python3",
+            "command": f"{sys.executable}",
             "args": [f"{project_root}/mcp-servers/civic-guide/server.py"]
         },
         "resource-directory": {
-            "command": "python3",
+            "command": f"{sys.executable}",
             "args": [f"{project_root}/mcp-servers/resource-directory/server.py"]
         },
         "news-events": {
-            "command": "python3",
+            "command": f"{sys.executable}",
             "args": [f"{project_root}/mcp-servers/news-events/server.py"]
         }
     }
