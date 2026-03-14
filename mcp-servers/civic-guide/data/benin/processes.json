@@ -1,0 +1,436 @@
+[
+  {
+    "id": "voter-registration",
+    "name": "Inscription sur la liste électorale",
+    "category": "voting",
+    "steps": [
+      {
+        "order": 1,
+        "action": "Rassembler les documents requis",
+        "details": "Préparez votre acte de naissance et un justificatif de domicile récent (moins de 3 mois)."
+      },
+      {
+        "order": 2,
+        "action": "Se rendre à la Commission Électorale Nationale Indépendante (CENI) ou à la mairie de votre commune",
+        "details": "Les inscriptions se tiennent généralement dans les mairies, arrondissements ou centres désignés par la CENI."
+      },
+      {
+        "order": 3,
+        "action": "Remplir le formulaire d'inscription",
+        "details": "Complétez le formulaire fourni sur place avec vos informations personnelles exactes."
+      },
+      {
+        "order": 4,
+        "action": "Soumettre votre dossier et vous faire photographier",
+        "details": "Remettez vos documents à l'agent d'inscription qui procédera à votre enregistrement et à la prise de photo."
+      },
+      {
+        "order": 5,
+        "action": "Recevoir votre attestation d'inscription",
+        "details": "Un récépissé ou attestation vous sera remis comme preuve d'inscription. Conservez-le précieusement."
+      },
+      {
+        "order": 6,
+        "action": "Vérifier votre inscription sur les listes",
+        "details": "Environ un mois avant les élections, vérifiez votre inscription sur le site de la CENI ou au bureau de vote désigné."
+      }
+    ],
+    "requirements": [
+      "Acte de naissance original ou copie certifiée conforme",
+      "Justificatif de domicile (facture d'eau, d'électricité ou attestation de résidence)",
+      "Être de nationalité béninoise",
+      "Avoir au moins 18 ans",
+      "Jouir de ses droits civiques et politiques"
+    ],
+    "cost": "Gratuit",
+    "timeline": "Inscription possible toute l'année; les listes se ferment 60 jours avant le scrutin",
+    "tips": [
+      "Inscrivez-vous bien avant les élections, les délais légaux sont stricts.",
+      "Vérifiez les périodes d'inscription actives sur le site officiel de la CENI (www.cenobenin.bj).",
+      "En cas de déménagement, il faut procéder à un changement d'adresse électorale.",
+      "Apportez des photocopies de tous vos documents en plus des originaux."
+    ],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "id": "voting",
+    "name": "Participer au vote lors d'une élection",
+    "category": "voting",
+    "steps": [
+      {
+        "order": 1,
+        "action": "Vérifier votre inscription et bureau de vote",
+        "details": "Consultez la liste électorale pour confirmer votre bureau de vote assigné, disponible sur le site de la CENI ou en mairie."
+      },
+      {
+        "order": 2,
+        "action": "Récupérer votre carte d'électeur (si nouvelle élection)",
+        "details": "Pour les nouvelles inscriptions, récupérez votre carte d'électeur au bureau désigné avant le jour du vote."
+      },
+      {
+        "order": 3,
+        "action": "Se rendre au bureau de vote le jour J",
+        "details": "Présentez-vous à votre bureau de vote avec votre carte d'électeur et une pièce d'identité valide (CNIB ou passeport)."
+      },
+      {
+        "order": 4,
+        "action": "Émargement et récupération du bulletin",
+        "details": "Signez la liste d'émargement, récupérez votre bulletin de vote et une enveloppe."
+      },
+      {
+        "order": 5,
+        "action": "Voter dans l'isoloir",
+        "details": "Entrez seul dans l'isoloir, glissez le bulletin de votre choix dans l'enveloppe et repliez les autres bulletins."
+      },
+      {
+        "order": 6,
+        "action": "Glisser l'enveloppe dans l'urne",
+        "details": "Sortez de l'isoloir et introduisez votre enveloppe dans l'urne en présence des membres du bureau de vote."
+      }
+    ],
+    "requirements": [
+      "Être inscrit sur la liste électorale",
+      "Carte d'électeur valide",
+      "Carte Nationale d'Identité Biométrique (CNIB) ou passeport"
+    ],
+    "cost": "Gratuit",
+    "timeline": "Le jour de l'élection, les bureaux de vote sont ouverts de 7h00 à 17h00 en général",
+    "tips": [
+      "Arrivez tôt pour éviter les longues files d'attente en fin de journée.",
+      "Le vote est secret — nul ne peut vous obliger à révéler votre choix.",
+      "En cas de perte de carte d'électeur, signalez-le à la CENI avant le scrutin.",
+      "Le téléphone portable doit être rangé dans l'isoloir (interdiction de photographier son bulletin)."
+    ],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "id": "national-id",
+    "name": "Obtenir la Carte Nationale d'Identité Biométrique (CNIB)",
+    "category": "identity",
+    "steps": [
+      {
+        "order": 1,
+        "action": "Rassembler les pièces justificatives",
+        "details": "Préparez votre acte de naissance, un justificatif de nationalité béninoise et un justificatif de domicile."
+      },
+      {
+        "order": 2,
+        "action": "Se rendre à la mairie, à la préfecture ou au commissariat de votre lieu de résidence",
+        "details": "Les demandes de CNIB sont traitées dans les commissariats de police, les mairies et les préfectures habilitées."
+      },
+      {
+        "order": 3,
+        "action": "Remplir le formulaire de demande",
+        "details": "Complétez le formulaire officiel de demande de CNIB avec vos informations personnelles."
+      },
+      {
+        "order": 4,
+        "action": "Prise d'empreintes digitales et de photo",
+        "details": "Le personnel compétent procédera à la capture de vos données biométriques (empreintes et photographie)."
+      },
+      {
+        "order": 5,
+        "action": "Payer les frais et obtenir le récépissé",
+        "details": "Acquittez les frais de dossier et conservez votre récépissé qui servira de pièce d'identité provisoire."
+      },
+      {
+        "order": 6,
+        "action": "Retirer votre CNIB",
+        "details": "Revenez au même guichet après le délai indiqué pour retirer votre carte définitive sur présentation du récépissé."
+      }
+    ],
+    "requirements": [
+      "Acte de naissance original ou copie certifiée",
+      "Certificat de nationalité béninoise",
+      "Justificatif de domicile (moins de 3 mois)",
+      "2 photos d'identité récentes (fond blanc)",
+      "Ancienne CNIB en cas de renouvellement"
+    ],
+    "cost": "2 000 à 5 000 FCFA selon le type de demande",
+    "timeline": "Délai de traitement : 2 à 4 semaines selon le centre",
+    "tips": [
+      "Le récépissé de dépôt est valide comme pièce d'identité provisoire pendant 3 mois.",
+      "Pour les enfants de moins de 18 ans, une autorisation parentale est nécessaire.",
+      "Vérifiez les horaires d'ouverture des guichets — généralement 8h-12h et 14h-17h en semaine.",
+      "La CNIB est valable 10 ans pour les adultes."
+    ],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "id": "birth-certificate",
+    "name": "Obtenir un acte de naissance",
+    "category": "civil-registry",
+    "steps": [
+      {
+        "order": 1,
+        "action": "Identifier le centre d'état civil compétent",
+        "details": "L'acte de naissance est délivré par la mairie ou le centre d'état civil du lieu de naissance."
+      },
+      {
+        "order": 2,
+        "action": "Préparer les informations nécessaires",
+        "details": "Notez les informations exactes : nom, prénom, date et lieu de naissance, noms des parents."
+      },
+      {
+        "order": 3,
+        "action": "Se présenter au service d'état civil",
+        "details": "Rendez-vous au guichet état civil de la mairie concernée muni d'une pièce d'identité."
+      },
+      {
+        "order": 4,
+        "action": "Remplir la demande",
+        "details": "Complétez le formulaire de demande d'extrait ou de copie intégrale d'acte de naissance."
+      },
+      {
+        "order": 5,
+        "action": "Payer les frais de délivrance",
+        "details": "Acquittez les droits d'enregistrement au guichet de la régie communale."
+      },
+      {
+        "order": 6,
+        "action": "Recevoir l'acte de naissance",
+        "details": "L'acte est généralement remis le jour même ou sous 48 heures pour les demandes standards."
+      }
+    ],
+    "requirements": [
+      "Pièce d'identité du demandeur (CNIB ou passeport)",
+      "Informations exactes sur la personne concernée (nom, date et lieu de naissance)",
+      "Livret de famille (si disponible)",
+      "Procuration notariée si la demande est faite par un tiers"
+    ],
+    "cost": "500 à 1 500 FCFA pour une copie certifiée conforme",
+    "timeline": "Délivrance le jour même ou sous 48 heures; actes anciens peuvent prendre 1 semaine",
+    "tips": [
+      "Précisez si vous avez besoin d'un extrait avec ou sans filiation selon l'usage.",
+      "Pour un acte en vue d'un mariage ou d'un passeport, demandez une copie intégrale.",
+      "En cas de perte des registres, un jugement supplétif devant le tribunal peut être nécessaire.",
+      "Certaines mairies acceptent les demandes par courrier ou par procuration."
+    ],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "id": "business-registration",
+    "name": "Créer et enregistrer une entreprise",
+    "category": "business",
+    "steps": [
+      {
+        "order": 1,
+        "action": "Choisir la forme juridique de l'entreprise",
+        "details": "Déterminez si vous optez pour une Entreprise Individuelle, SARL, SA ou autre forme juridique selon votre projet."
+      },
+      {
+        "order": 2,
+        "action": "Rédiger les statuts (pour les sociétés)",
+        "details": "Pour les SARL et SA, rédigez les statuts constitutifs devant notaire ou sous seing privé selon les cas."
+      },
+      {
+        "order": 3,
+        "action": "Se rendre au Centre de Formalités des Entreprises (CFE) ou à l'APIEX",
+        "details": "Le Centre de Formalités des Entreprises (CFE) du Ministère en charge du Commerce permet d'accomplir toutes les formalités en un seul lieu."
+      },
+      {
+        "order": 4,
+        "action": "Déposer le dossier d'immatriculation",
+        "details": "Remettez le dossier complet incluant statuts, pièces d'identité des associés, justificatif du local et capital social."
+      },
+      {
+        "order": 5,
+        "action": "Obtenir le Registre du Commerce et du Crédit Mobilier (RCCM)",
+        "details": "Une fois le dossier validé, vous recevrez votre numéro RCCM qui officialise l'existence de votre entreprise."
+      },
+      {
+        "order": 6,
+        "action": "S'immatriculer à la Direction des Impôts (DGI)",
+        "details": "Enregistrez votre entreprise auprès de la Direction Générale des Impôts pour obtenir l'Identifiant Fiscal Unique (IFU)."
+      },
+      {
+        "order": 7,
+        "action": "S'affilier à la CNSS pour les employés",
+        "details": "Si vous avez des salariés, affiliez votre entreprise à la Caisse Nationale de Sécurité Sociale (CNSS)."
+      }
+    ],
+    "requirements": [
+      "Pièces d'identité des fondateurs ou associés (CNIB ou passeport)",
+      "Statuts de la société (pour les formes sociétaires)",
+      "Justificatif du siège social (bail ou titre de propriété)",
+      "Attestation de dépôt du capital social (pour les SA et SARL)",
+      "Casier judiciaire des dirigeants (moins de 3 mois)",
+      "Formulaire de demande d'immatriculation au RCCM"
+    ],
+    "cost": "Entre 50 000 et 200 000 FCFA selon la forme juridique (frais notaire, enregistrement, RCCM)",
+    "timeline": "3 à 7 jours ouvrables avec le guichet unique du CFE",
+    "tips": [
+      "Le CFE (guichet unique) permet de centraliser toutes les démarches en une seule visite.",
+      "Pour une Entreprise Individuelle, la procédure est simplifiée et moins coûteuse.",
+      "Renseignez-vous auprès de l'APIEX pour les avantages fiscaux des investisseurs.",
+      "Conservez tous les originaux de vos statuts — les copies certifiées seront fréquemment demandées.",
+      "L'obtention de l'IFU est obligatoire pour toute transaction fiscale et bancaire."
+    ],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "id": "police-report",
+    "name": "Déposer une plainte ou une déclaration à la police",
+    "category": "security",
+    "steps": [
+      {
+        "order": 1,
+        "action": "Rassembler les preuves et informations disponibles",
+        "details": "Notez les faits avec dates, heures, lieux et témoins éventuels. Rassemblez photos, vidéos ou documents pertinents."
+      },
+      {
+        "order": 2,
+        "action": "Se rendre au commissariat de police ou à la brigade de gendarmerie la plus proche",
+        "details": "Pour les faits survenus en zone urbaine, allez au commissariat; en zone rurale, à la brigade de gendarmerie."
+      },
+      {
+        "order": 3,
+        "action": "Demander à voir l'officier de permanence",
+        "details": "Signalez à l'accueil que vous souhaitez déposer une plainte ou une déclaration et demandez à voir l'officier de permanence."
+      },
+      {
+        "order": 4,
+        "action": "Exposer les faits et dicter votre déclaration",
+        "details": "Racontez les faits de manière chronologique, précise et objective. L'officier enregistrera votre déclaration."
+      },
+      {
+        "order": 5,
+        "action": "Relire et signer le procès-verbal",
+        "details": "Relisez attentivement le procès-verbal avant de le signer. Vous pouvez demander des corrections si nécessaire."
+      },
+      {
+        "order": 6,
+        "action": "Récupérer le récépissé de dépôt de plainte",
+        "details": "Exigez une copie ou un récépissé du procès-verbal — c'est votre preuve officielle du dépôt de plainte."
+      }
+    ],
+    "requirements": [
+      "Pièce d'identité valide (CNIB ou passeport)",
+      "Toute preuve disponible (photos, vidéos, témoignages écrits)",
+      "Documents relatifs à l'infraction (contrats, reçus, etc.) le cas échéant"
+    ],
+    "cost": "Gratuit",
+    "timeline": "Enregistrement immédiat; enquête selon complexité de l'affaire (jours à semaines)",
+    "tips": [
+      "Déposez la plainte le plus tôt possible après les faits pour préserver les preuves.",
+      "Si les forces de l'ordre refusent d'enregistrer votre plainte, vous pouvez saisir directement le Parquet.",
+      "Pour les violences domestiques, des brigades spécialisées existent dans certaines villes.",
+      "Conservez le numéro de votre procès-verbal pour suivre l'avancement de votre dossier.",
+      "En cas d'urgence, appelez le 166 (Police) ou le 117 (Gendarmerie)."
+    ],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "id": "corruption-report",
+    "name": "Signaler un acte de corruption",
+    "category": "anti-corruption",
+    "steps": [
+      {
+        "order": 1,
+        "action": "Documenter les faits avec précision",
+        "details": "Notez les dates, montants demandés ou versés, noms ou fonctions des personnes impliquées, et conservez toute preuve (SMS, reçus, témoins)."
+      },
+      {
+        "order": 2,
+        "action": "Identifier l'organe compétent pour signaler",
+        "details": "Au Bénin, la CRIET (Cour de Répression des Infractions Économiques et du Terrorisme) et la CRIET sont les principaux organes. L'ANLC (Autorité Nationale de Lutte contre la Corruption) reçoit également les signalements."
+      },
+      {
+        "order": 3,
+        "action": "Déposer le signalement à l'ANLC",
+        "details": "Rendez-vous à l'Autorité Nationale de Lutte contre la Corruption (ANLC) à Cotonou, ou utilisez leur ligne de dénonciation ou formulaire en ligne sur www.anlc.bj."
+      },
+      {
+        "order": 4,
+        "action": "Fournir un témoignage détaillé",
+        "details": "Exposez les faits de manière chronologique et précise aux enquêteurs. Remettez toutes les preuves documentées."
+      },
+      {
+        "order": 5,
+        "action": "Recevoir confirmation du signalement",
+        "details": "Un accusé de réception ou numéro de référence vous sera fourni pour le suivi de votre signalement."
+      },
+      {
+        "order": 6,
+        "action": "Suivre l'évolution du dossier",
+        "details": "Gardez contact avec l'ANLC pour être informé des suites données à votre signalement."
+      }
+    ],
+    "requirements": [
+      "Identité du déclarant (peut être anonyme dans certains cas)",
+      "Description précise des faits (dates, lieux, montants, personnes impliquées)",
+      "Preuves disponibles (documents, enregistrements, témoins)",
+      "Coordonnées pour le suivi (optionnel si signalement anonyme)"
+    ],
+    "cost": "Gratuit",
+    "timeline": "Accusé de réception immédiat; traitement du dossier selon complexité (semaines à mois)",
+    "tips": [
+      "Le signalement anonyme est possible — votre protection est garantie par la loi.",
+      "Ne payez jamais pour accélérer une procédure administrative — c'est un acte de corruption.",
+      "Vous pouvez aussi signaler via la ligne verte de l'ANLC ou Transparency International Bénin.",
+      "Les représailles contre les lanceurs d'alerte sont punies par la loi béninoise.",
+      "Conservez des copies de toutes vos preuves dans un endroit sûr."
+    ],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "id": "passport",
+    "name": "Demander un passeport béninois",
+    "category": "identity",
+    "steps": [
+      {
+        "order": 1,
+        "action": "Rassembler les documents requis",
+        "details": "Préparez votre acte de naissance, certificat de nationalité, CNIB valide et deux photos d'identité récentes fond blanc."
+      },
+      {
+        "order": 2,
+        "action": "Se rendre à la Direction de la Police des Frontières et des Étrangers (DPFE) ou à la préfecture",
+        "details": "Les demandes de passeport sont traitées à la DPFE à Cotonou, ou dans certaines préfectures pour les villes de province."
+      },
+      {
+        "order": 3,
+        "action": "Remplir le formulaire de demande de passeport",
+        "details": "Complétez le formulaire officiel de demande en lettres capitales avec des informations exactes correspondant à vos pièces d'identité."
+      },
+      {
+        "order": 4,
+        "action": "Déposer le dossier complet et payer les frais",
+        "details": "Remettez votre dossier complet au guichet et acquittez les frais officiels de passeport à la régie."
+      },
+      {
+        "order": 5,
+        "action": "Prise des données biométriques",
+        "details": "Procédez à la capture de vos empreintes digitales et de votre photographie dans la salle biométrique."
+      },
+      {
+        "order": 6,
+        "action": "Recevoir le récépissé de dépôt",
+        "details": "Conservez le récépissé indiquant la date de retrait prévue de votre passeport."
+      },
+      {
+        "order": 7,
+        "action": "Retirer le passeport",
+        "details": "Revenez à la date indiquée avec votre récépissé et votre CNIB pour retirer votre passeport."
+      }
+    ],
+    "requirements": [
+      "Acte de naissance original ou copie certifiée conforme (moins de 3 mois)",
+      "Certificat de nationalité béninoise (moins de 3 mois)",
+      "Carte Nationale d'Identité Biométrique (CNIB) valide",
+      "2 photos d'identité récentes (fond blanc, format 4x4 cm)",
+      "Ancien passeport en cas de renouvellement",
+      "Autorisation parentale pour les mineurs (avec CNIB du parent)"
+    ],
+    "cost": "25 000 FCFA pour un passeport ordinaire (valable 5 ans); 50 000 FCFA pour un passeport en procédure d'urgence",
+    "timeline": "Délai standard : 3 à 6 semaines; procédure d'urgence : 72 heures",
+    "tips": [
+      "Commencez les démarches au moins 2 mois avant votre voyage prévu.",
+      "Vérifiez que votre CNIB est valide — un passeport ne peut être délivré sur une CNIB expirée.",
+      "La procédure d'urgence est réservée aux cas justifiés (voyage médical, professionnel urgent).",
+      "Pour les Béninois à l'étranger, les ambassades et consulats peuvent traiter les demandes.",
+      "Le passeport biométrique béninois est reconnu par les pays de la CEDEAO sans visa."
+    ],
+    "last_updated": "2026-03-14"
+  }
+]
