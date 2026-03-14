@@ -56,11 +56,36 @@ def configure_mcp_servers():
     print("MCP servers registered in nanobot config")
 
 
+def configure_channels():
+    """Enable Telegram/WhatsApp if tokens are available."""
+    config_path = NANOBOT_DIR / "config.json"
+    with open(config_path, "r") as f:
+        config = json.load(f)
+
+    telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    if telegram_token:
+        config["channels"]["telegram"]["enabled"] = True
+        config["channels"]["telegram"]["token"] = telegram_token
+        config["channels"]["telegram"]["allowFrom"] = []
+        print(f"Telegram enabled (open to all)")
+
+    with open(config_path, "w") as f:
+        json.dump(config, f, indent=2)
+
+
 def setup():
-    """Full setup: SOUL.md + MCP servers."""
+    """Full setup: SOUL.md + MCP servers + channels."""
     setup_soul()
     configure_mcp_servers()
-    print("\nSetup complete! Run: nanobot agent")
+    configure_channels()
+
+    telegram_on = bool(os.environ.get("TELEGRAM_BOT_TOKEN"))
+    if telegram_on:
+        print("\nSetup complete! Run: nanobot gateway")
+        print("Kofi is live on Telegram and CLI!")
+    else:
+        print("\nSetup complete! Run: nanobot agent")
+        print("Set TELEGRAM_BOT_TOKEN to enable Telegram.")
 
 
 if __name__ == "__main__":
