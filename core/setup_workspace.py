@@ -66,7 +66,7 @@ def configure_channels():
     if telegram_token:
         config["channels"]["telegram"]["enabled"] = True
         config["channels"]["telegram"]["token"] = telegram_token
-        config["channels"]["telegram"]["allowFrom"] = []
+        config["channels"]["telegram"]["allowFrom"] = ["*"]
         print(f"Telegram enabled (open to all)")
 
     with open(config_path, "w") as f:
