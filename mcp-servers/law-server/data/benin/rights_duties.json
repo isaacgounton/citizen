@@ -1,0 +1,110 @@
+[
+  {
+    "category": "property",
+    "type": "right",
+    "title": "Droit de propriété",
+    "description": "Toute personne physique ou morale a le droit de posséder, d'utiliser et de disposer de ses biens. Nul ne peut être privé de sa propriété que pour cause d'utilité publique et contre juste et préalable dédommagement.",
+    "constitutional_basis": "Article 22",
+    "practical_info": "En cas d'expropriation, vous avez droit à une indemnisation juste avant que l'État ne prenne possession de votre bien. Vous pouvez contester la décision devant les tribunaux administratifs.",
+    "topics": ["property", "land", "ownership", "expropriation", "real estate"]
+  },
+  {
+    "category": "property",
+    "type": "duty",
+    "title": "Enregistrement des titres fonciers",
+    "description": "Les propriétaires fonciers ont le devoir d'enregistrer leurs titres de propriété auprès des services du cadastre et de l'enregistrement pour sécuriser leurs droits.",
+    "constitutional_basis": "Législation foncière",
+    "practical_info": "L'enregistrement se fait au Guichet Unique du Foncier. Sans titre enregistré, votre droit de propriété peut être contesté. Gardez tous vos documents de propriété en lieu sûr.",
+    "topics": ["property", "land", "registration", "cadastre", "title"]
+  },
+  {
+    "category": "labor",
+    "type": "right",
+    "title": "Droit au travail et à une rémunération équitable",
+    "description": "Tout travailleur a droit à une rémunération juste et équitable. Le salaire minimum interprofessionnel garanti (SMIG) est fixé par l'État. Les travailleurs ont droit au repos, aux congés payés et à la protection sociale.",
+    "constitutional_basis": "Article 30",
+    "practical_info": "En cas de non-paiement du salaire, adressez-vous à l'Inspection du Travail. Vous avez droit à au moins 24 jours de congés payés par an après un an de service.",
+    "topics": ["labor", "work", "salary", "wages", "employment", "rights"]
+  },
+  {
+    "category": "labor",
+    "type": "right",
+    "title": "Droit de grève et de syndicalisation",
+    "description": "Les travailleurs ont le droit de se syndiquer et d'exercer le droit de grève dans les conditions prévues par la loi. Les délégués syndicaux bénéficient d'une protection contre le licenciement abusif.",
+    "constitutional_basis": "Articles 30-31",
+    "practical_info": "Un préavis de grève doit être déposé auprès de l'employeur. Les services essentiels (hôpitaux, police) sont soumis à des règles spéciales. Contactez votre syndicat pour vous informer sur vos droits.",
+    "topics": ["labor", "strike", "union", "syndicate", "work", "rights"]
+  },
+  {
+    "category": "criminal",
+    "type": "right",
+    "title": "Présomption d'innocence",
+    "description": "Tout accusé est présumé innocent jusqu'à ce que sa culpabilité soit établie par une décision judiciaire définitive. Nul ne peut être condamné sans avoir eu la possibilité de se défendre.",
+    "constitutional_basis": "Article 19",
+    "practical_info": "Vous avez le droit d'être assisté d'un avocat dès votre arrestation. Si vous n'avez pas les moyens, vous pouvez demander l'aide juridictionnelle (avocat commis d'office).",
+    "topics": ["criminal", "innocence", "presumption", "trial", "defense", "arrest"]
+  },
+  {
+    "category": "criminal",
+    "type": "right",
+    "title": "Droit à la défense et à un procès équitable",
+    "description": "Toute personne poursuivie pénalement a droit à un procès équitable, à être jugée dans un délai raisonnable, à être informée des charges contre elle, et à se faire assister d'un défenseur de son choix.",
+    "constitutional_basis": "Articles 18-19",
+    "practical_info": "Demandez toujours à être assisté d'un avocat. Si vous êtes en garde à vue, la durée maximale est de 48 heures (renouvelable une fois). Au-delà, votre détention est illégale.",
+    "topics": ["criminal", "trial", "fair trial", "defense", "lawyer", "rights"]
+  },
+  {
+    "category": "family",
+    "type": "right",
+    "title": "Protection de la famille",
+    "description": "La famille est la cellule de base de la société. L'État protège la famille et assure la protection de la mère et de l'enfant. Les parents ont le droit et le devoir d'éduquer leurs enfants.",
+    "constitutional_basis": "Articles 26, 40",
+    "practical_info": "En cas de violences familiales, contactez la gendarmerie ou la police. Des centres d'accueil pour femmes et enfants victimes de violences existent dans les grandes villes.",
+    "topics": ["family", "children", "protection", "marriage", "parents"]
+  },
+  {
+    "category": "family",
+    "type": "right",
+    "title": "Droits de l'enfant",
+    "description": "Tout enfant a droit à l'éducation, à la santé, à la protection contre l'exploitation et les abus. L'âge minimum pour le travail est fixé par la loi. Le mariage des enfants est interdit.",
+    "constitutional_basis": "Articles 12, 26, 40",
+    "practical_info": "Si un enfant est victime d'abus, signalez-le à la Direction de la Protection de l'Enfance ou à la police. L'action sociale peut intervenir pour protéger l'enfant.",
+    "topics": ["family", "children", "education", "protection", "rights", "child labor"]
+  },
+  {
+    "category": "civic",
+    "type": "right",
+    "title": "Droit de vote et de participation politique",
+    "description": "Tout citoyen béninois de 18 ans et plus ayant ses droits civils et politiques a le droit de voter et d'être élu. La liberté d'opinion, d'association politique et de candidature est garantie.",
+    "constitutional_basis": "Article 6",
+    "practical_info": "Inscrivez-vous sur les listes électorales à la mairie de votre commune. La carte d'identité nationale ou la carte d'électeur sont nécessaires pour voter le jour du scrutin.",
+    "topics": ["civic", "voting", "election", "political", "participation", "citizen"]
+  },
+  {
+    "category": "civic",
+    "type": "duty",
+    "title": "Devoir fiscal et contribution aux charges publiques",
+    "description": "Chaque citoyen a le devoir de payer ses impôts et taxes selon sa capacité contributive. L'évasion fiscale est une infraction pénale.",
+    "constitutional_basis": "Article 33",
+    "practical_info": "Déclarez vos revenus à la Direction Générale des Impôts (DGI). En cas de difficultés, des facilités de paiement peuvent être accordées. Les entreprises doivent s'enregistrer à la DGI.",
+    "topics": ["civic", "taxes", "fiscal", "duty", "citizen", "public charges"]
+  },
+  {
+    "category": "education",
+    "type": "right",
+    "title": "Droit à l'éducation",
+    "description": "Tout citoyen béninois a droit à l'éducation. L'enseignement primaire est obligatoire et gratuit dans les établissements publics. L'État assure progressivement la gratuité de l'enseignement public à tous les niveaux.",
+    "constitutional_basis": "Articles 12-13",
+    "practical_info": "Inscrivez vos enfants à l'école publique gratuitement. En cas de refus d'inscription, adressez-vous à la Direction Départementale de l'Enseignement. Des bourses scolaires existent pour les familles dans le besoin.",
+    "topics": ["education", "school", "children", "public", "rights", "compulsory"]
+  },
+  {
+    "category": "health",
+    "type": "right",
+    "title": "Droit à la santé",
+    "description": "Tout citoyen a droit à la protection de sa santé. L'État assure l'accès aux soins de santé de base. Les personnes vulnérables (enfants, femmes enceintes, personnes âgées) bénéficient d'une protection spéciale.",
+    "constitutional_basis": "Article 12",
+    "practical_info": "Les centres de santé publics offrent des soins primaires à tarif réduit. L'Assurance pour le Renforcement du Capital Humain (ARCH) permet d'accéder à une couverture sanitaire. Présentez votre carte ARCH ou votre RAMU pour bénéficier de réductions.",
+    "topics": ["health", "medical", "care", "hospital", "rights", "insurance"]
+  }
+]

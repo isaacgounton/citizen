@@ -1,0 +1,99 @@
+[
+  {
+    "situation": "arrested",
+    "title": "Que faire en cas d'arrestation",
+    "steps": [
+      "Restez calme et ne résistez pas physiquement à l'arrestation.",
+      "Demandez immédiatement à être informé des raisons de votre arrestation (droit constitutionnel, art. 18).",
+      "Demandez à contacter un avocat ou un membre de votre famille dès que possible.",
+      "Ne signez aucun document sans avoir consulté un avocat.",
+      "En garde à vue, la durée maximale légale est de 48 heures, renouvelable une fois sur autorisation du Procureur.",
+      "Si vous n'avez pas les moyens de payer un avocat, demandez l'aide juridictionnelle (avocat commis d'office).",
+      "Notez le nom et le matricule des agents si possible.",
+      "Après votre libération, consultez un avocat pour évaluer les suites possibles (plainte, demande de dommages-intérêts)."
+    ],
+    "legal_basis": "Articles 18-19 de la Constitution du Bénin",
+    "topics": ["arrest", "police", "detention", "garde à vue", "rights", "arrestation"],
+    "warning": "IMPORTANT: Toute garde à vue dépassant 96 heures sans présentation devant un magistrat est illégale. Vous pouvez demander un recours en habeas corpus devant le tribunal."
+  },
+  {
+    "situation": "eviction",
+    "title": "Que faire en cas d'expulsion de son logement",
+    "steps": [
+      "Vérifiez que l'expulsion est fondée sur une décision de justice (jugement d'expulsion) et non sur une simple décision du propriétaire.",
+      "Un propriétaire ne peut pas expulser un locataire sans décision de justice, même en cas de loyers impayés.",
+      "Si vous recevez un avis d'expulsion, consultez immédiatement un avocat ou le Bureau d'Aide Juridictionnelle.",
+      "Vous avez le droit de contester la décision d'expulsion devant le tribunal civil dans les délais impartis.",
+      "Rassemblez tous vos documents: contrat de bail, quittances de loyer, correspondances avec le propriétaire.",
+      "Si l'expulsion est légale, vous avez droit à un délai raisonnable pour quitter les lieux (généralement 1 à 3 mois selon le juge).",
+      "En cas d'expulsion forcée sans décision judiciaire, portez plainte auprès du commissariat pour voie de fait."
+    ],
+    "legal_basis": "Article 22 de la Constitution, Code Civil, Loi sur les baux d'habitation",
+    "topics": ["eviction", "housing", "rental", "property", "tenant", "landlord"],
+    "warning": "IMPORTANT: Une expulsion menée sans décision de justice est illégale, même si vous devez des loyers. Contactez immédiatement un avocat ou le Médiateur de la République."
+  },
+  {
+    "situation": "labor dispute",
+    "title": "Que faire en cas de litige avec son employeur",
+    "steps": [
+      "Tentez d'abord une résolution amiable en écrivant formellement à votre employeur par lettre recommandée.",
+      "Rassemblez tous vos documents: contrat de travail, fiches de paie, courriers, témoignages.",
+      "Contactez l'Inspection du Travail compétente pour votre département pour une tentative de conciliation.",
+      "L'Inspection du Travail peut convoquer les deux parties pour une médiation (gratuite).",
+      "Si la conciliation échoue, saisissez le Tribunal du Travail (anciennement Tribunal de Première Instance, Chambre sociale).",
+      "Vous pouvez saisir votre syndicat pour vous assister dans la démarche.",
+      "En cas de licenciement abusif, vous avez droit à une indemnité calculée selon votre ancienneté."
+    ],
+    "legal_basis": "Article 30 de la Constitution, Code du Travail du Bénin",
+    "topics": ["labor dispute", "employment", "dismissal", "salary", "work", "employer"],
+    "warning": "IMPORTANT: Les délais de prescription pour les litiges du travail sont courts (souvent 2 ans). Agissez rapidement pour ne pas perdre vos droits."
+  },
+  {
+    "situation": "property dispute",
+    "title": "Que faire en cas de litige foncier ou de propriété",
+    "steps": [
+      "Rassemblez tous vos titres de propriété: acte de vente, titre foncier, certificat de propriété, contrat de donation.",
+      "Tentez une résolution amiable avec la partie adverse, idéalement en présence de témoins ou d'un chef de quartier.",
+      "Consultez les archives foncières à la Conservation Foncière ou au cadastre pour vérifier les titres existants.",
+      "En cas d'échec de la conciliation, saisissez le tribunal civil du lieu où est situé le bien.",
+      "Vous pouvez également passer par un notaire pour une médiation ou pour sécuriser une transaction.",
+      "En zone rurale, le chef de village ou la commission de conciliation foncière peut intervenir en premier recours.",
+      "Si votre terrain est occupé illégalement, vous pouvez demander une ordonnance de référé pour expulsion immédiate."
+    ],
+    "legal_basis": "Article 22 de la Constitution, Code Foncier et Domanial du Bénin",
+    "topics": ["property dispute", "land", "ownership", "real estate", "cadastre"],
+    "warning": "IMPORTANT: Sans titre foncier enregistré, votre droit de propriété est difficile à défendre. Enregistrez vos terres au plus tôt auprès du Guichet Unique du Foncier."
+  },
+  {
+    "situation": "domestic violence",
+    "title": "Que faire en cas de violence domestique",
+    "steps": [
+      "En cas de danger immédiat, appelez la police ou la gendarmerie (17 ou 197) ou fuyez vers un lieu sûr.",
+      "Recherchez une assistance médicale si vous êtes blessé(e). Faites établir un certificat médical par un médecin.",
+      "Portez plainte auprès du commissariat ou de la brigade de gendarmerie la plus proche. La plainte est gratuite.",
+      "Contactez une organisation de défense des droits des femmes: WILDAF-Bénin, Réseau des Femmes pour le Développement, ONG AFAB.",
+      "Vous pouvez demander une ordonnance de protection devant le juge des affaires familiales pour éloigner l'auteur des violences.",
+      "Des centres d'hébergement d'urgence pour femmes victimes de violences existent à Cotonou et dans certaines capitales départementales.",
+      "Conservez toutes les preuves: photos, certificats médicaux, témoignages, messages."
+    ],
+    "legal_basis": "Articles 26, 40 de la Constitution, Loi n°2003-03 sur la répression des violences basées sur le genre",
+    "topics": ["domestic violence", "violence", "women", "family", "protection", "abuse"],
+    "warning": "IMPORTANT: Les violences domestiques sont des infractions pénales au Bénin. N'attendez pas que la situation s'aggrave. Appelez le 197 (Police) ou le 17 (Gendarmerie) en cas d'urgence."
+  },
+  {
+    "situation": "business fraud",
+    "title": "Que faire en cas d'escroquerie ou de fraude commerciale",
+    "steps": [
+      "Rassemblez toutes les preuves: contrats, reçus, factures, relevés bancaires, échanges écrits ou électroniques.",
+      "Portez plainte auprès de la Brigade Économique et Financière (BEF) ou du commissariat.",
+      "Contactez l'Office Central de Répression de la Cybercriminalité (OCRC) si la fraude a eu lieu en ligne.",
+      "Saisissez le Tribunal de Commerce de Cotonou (ou le tribunal civil pour les communes sans tribunal de commerce).",
+      "Consultez un avocat spécialisé en droit des affaires pour évaluer vos recours civils et pénaux.",
+      "Signalez la fraude à l'Agence Nationale de Protection des Consommateurs (ANPC) si vous êtes consommateur.",
+      "Pour les escroqueries par mobile money, contactez immédiatement votre opérateur téléphonique pour bloquer les transactions."
+    ],
+    "legal_basis": "Code Pénal du Bénin, Loi sur les transactions électroniques, Code de Commerce",
+    "topics": ["business fraud", "scam", "fraud", "commercial", "consumer", "cybercrime"],
+    "warning": "IMPORTANT: Conservez toutes les preuves numériques (screenshots, emails, SMS) car elles peuvent disparaître rapidement. Agissez vite car les délais de prescription pour l'escroquerie sont de 3 ans."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "article": 6,
+    "title": "Droit de vote",
+    "text": "Tout citoyen béninois de dix-huit (18) ans révolus, jouissant de ses droits civils et politiques, est électeur. Les conditions dans lesquelles s'exerce ce droit sont déterminées par la loi.",
+    "topics": ["voting", "election", "citizen", "political rights"],
+    "plain_language": "Tout Béninois de 18 ans et plus ayant ses droits civils et politiques peut voter. La loi fixe les modalités de ce droit."
+  },
+  {
+    "article": 12,
+    "title": "Droit à l'éducation",
+    "text": "L'Etat assure à tous l'égal accès à la santé, à l'éducation, à la culture, à l'information, à la formation professionnelle et à l'emploi.",
+    "topics": ["education", "health", "culture", "training", "employment"],
+    "plain_language": "L'État garantit à chacun un accès égal à la santé, l'éducation, la culture, l'information, la formation professionnelle et l'emploi."
+  },
+  {
+    "article": 13,
+    "title": "Obligation scolaire",
+    "text": "L'Etat pourvoit à l'éducation de la jeunesse par des écoles publiques. L'enseignement primaire est obligatoire. L'Etat assure progressivement la gratuité de l'enseignement public.",
+    "topics": ["education", "school", "children", "public education", "compulsory"],
+    "plain_language": "L'État fournit des écoles publiques pour les jeunes. L'enseignement primaire est obligatoire, et l'État rend progressivement l'enseignement public gratuit."
+  },
+  {
+    "article": 18,
+    "title": "Droit à la liberté et à la sécurité",
+    "text": "Nul ne peut être arrêté ou inculpé qu'en vertu d'une loi promulguée antérieurement aux faits qui lui sont reprochés. Toute personne arrêtée doit être informée immédiatement des motifs de son arrestation et de tout fait qui lui est imputé. Elle doit être immédiatement informée de ses droits.",
+    "topics": ["liberty", "security", "arrest", "detention", "rights", "arrestation"],
+    "plain_language": "Personne ne peut être arrêté sauf en vertu d'une loi préexistante. Toute personne arrêtée doit immédiatement être informée des raisons de son arrestation et de ses droits."
+  },
+  {
+    "article": 19,
+    "title": "Garde à vue et détention provisoire",
+    "text": "Tout prévenu est présumé innocent jusqu'à ce que sa culpabilité soit établie à la suite d'une procédure lui offrant les garanties indispensables à sa défense. Nul ne sera condamné pour des actions ou omissions qui ne constituaient pas un acte délictueux au moment où elles ont été commises. Nul ne peut être gardé à vue que dans les cas déterminés par la loi et par les règlements et devant les autorités compétentes.",
+    "topics": ["innocence", "presumption", "detention", "garde à vue", "arrest", "trial"],
+    "plain_language": "Toute personne accusée est présumée innocente jusqu'à preuve du contraire. La garde à vue n'est possible que dans les cas prévus par la loi devant les autorités compétentes."
+  },
+  {
+    "article": 22,
+    "title": "Droit de propriété",
+    "text": "Toute personne a droit à la propriété. Nul ne peut être privé de sa propriété que pour cause d'utilité publique et contre juste et préalable dédommagement.",
+    "topics": ["property", "land", "ownership", "expropriation", "compensation"],
+    "plain_language": "Chacun a le droit de posséder des biens. On ne peut vous priver de votre propriété que pour des raisons d'intérêt public et seulement contre une compensation juste et préalable."
+  },
+  {
+    "article": 23,
+    "title": "Liberté d'expression et de presse",
+    "text": "Toute personne a droit à la liberté de pensée, de conscience, de religion, de culte, d'opinion et d'expression dans le respect de l'ordre public établi par la loi et les règlements. L'exercice du culte et l'expression des croyances s'effectuent dans le respect de la laïcité de l'Etat.",
+    "topics": ["expression", "freedom", "press", "opinion", "religion", "conscience"],
+    "plain_language": "Chacun est libre de penser, d'avoir des croyances et d'exprimer ses opinions dans le respect de l'ordre public. L'exercice du culte se fait dans le respect de la laïcité de l'État."
+  },
+  {
+    "article": 25,
+    "title": "Liberté d'association et de réunion",
+    "text": "L'Etat garantit à tous les citoyens les libertés d'aller et venir, d'association, d'assemblée, de réunion et de manifestation dans les conditions déterminées par la loi.",
+    "topics": ["association", "assembly", "meeting", "demonstration", "freedom", "movement"],
+    "plain_language": "L'État garantit le droit de circuler librement, de former des associations, de se réunir et de manifester, sous les conditions fixées par la loi."
+  },
+  {
+    "article": 26,
+    "title": "Égalité devant la loi",
+    "text": "L'Etat assure à tous l'égalité devant la loi sans distinction d'origine, de race, de sexe, de religion, d'opinion politique et de position sociale. L'homme et la femme sont égaux en droit.",
+    "topics": ["equality", "discrimination", "race", "sex", "religion", "gender", "law"],
+    "plain_language": "L'État garantit l'égalité de tous devant la loi, sans discrimination basée sur l'origine, la race, le sexe, la religion, les opinions politiques ou le statut social. L'homme et la femme ont les mêmes droits."
+  },
+  {
+    "article": 30,
+    "title": "Droit au travail",
+    "text": "L'Etat reconnaît à chacun le droit au travail et s'efforce de créer les conditions qui rendent effectif la jouissance de ce droit et garantissent au travailleur une juste rétribution de ses services.",
+    "topics": ["work", "labor", "employment", "wages", "rights"],
+    "plain_language": "L'État reconnaît le droit de chacun au travail et s'efforce de créer les conditions pour que ce droit soit effectif, en garantissant une juste rémunération aux travailleurs."
+  },
+  {
+    "article": 33,
+    "title": "Obligation fiscale",
+    "text": "Chaque citoyen a le devoir de contribuer aux charges publiques. Nul n'est exonéré de ce devoir sauf dans les conditions et les formes prévues par la loi.",
+    "topics": ["taxes", "fiscal", "duty", "citizen", "public charges"],
+    "plain_language": "Chaque citoyen a le devoir de payer des impôts pour contribuer aux charges publiques. Des exonérations sont possibles uniquement dans les conditions prévues par la loi."
+  },
+  {
+    "article": 34,
+    "title": "Devoir de défense nationale",
+    "text": "Tout citoyen béninois a le devoir sacré de défendre la patrie. Le service militaire est obligatoire. Les conditions d'accomplissement de ce devoir sont déterminées par la loi.",
+    "topics": ["defense", "military", "national", "duty", "citizen"],
+    "plain_language": "Tout citoyen béninois a le devoir de défendre son pays. Le service militaire est obligatoire, avec les modalités fixées par la loi."
+  }
+]
