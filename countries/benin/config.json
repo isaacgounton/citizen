@@ -1,0 +1,17 @@
+{
+  "country_code": "bj",
+  "country_name": "Benin",
+  "country_name_local": "Bénin",
+  "primary_language": "French",
+  "local_languages": ["Fon", "Yoruba", "Bariba", "Dendi"],
+  "currency": "XOF (Franc CFA)",
+  "capital": "Porto-Novo",
+  "largest_city": "Cotonou",
+  "government_type": "Presidential republic",
+  "independence_date": "1960-08-01",
+  "constitution_year": 1990,
+  "citizen_name": "Kofi Adjovi",
+  "citizen_age": 32,
+  "citizen_city": "Cotonou",
+  "citizen_occupation": "Enseignant et petit entrepreneur"
+}
