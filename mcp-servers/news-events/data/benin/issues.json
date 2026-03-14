@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Chômage des jeunes",
+    "category": "economy",
+    "description": "Le taux de chômage des jeunes au Bénin dépasse 25%, avec un manque d'opportunités d'emploi formel. Les jeunes diplômés peinent à trouver des emplois correspondant à leurs qualifications, forçant beaucoup vers l'économie informelle",
+    "status": "ongoing",
+    "last_updated": "2026-03-14"
+  },
+  {
+    "title": "Accès à l'électricité en zone rurale",
+    "category": "infrastructure",
+    "description": "Moins de 40% de la population rurale béninoise a accès à l'électricité. Les coupures fréquentes et le coût élevé de l'énergie freinent le développement économique, notamment des PME et des ménages agricoles",
+    "status": "ongoing",
+    "last_updated": "2026-03-14"
+  },
+  {
+    "title": "Corruption dans l'administration publique",
+    "category": "governance",
+    "description": "La corruption reste un défi majeur dans les services publics béninois, notamment dans l'attribution des marchés publics, les douanes et la police. Malgré les efforts de l'ANLC, les citoyens signalent des pratiques de corruption dans les démarches administratives quotidiennes",
+    "status": "ongoing",
+    "last_updated": "2026-03-14"
+  },
+  {
+    "title": "Accès à l'eau potable",
+    "category": "infrastructure",
+    "description": "Environ 30% de la population béninoise n'a pas accès à une eau potable sûre, particulièrement dans les zones rurales du nord du pays. Cette situation entraîne des problèmes de santé publique et des difficultés pour les femmes et enfants qui parcourent de longues distances pour s'approvisionner",
+    "status": "ongoing",
+    "last_updated": "2026-03-14"
+  }
+]

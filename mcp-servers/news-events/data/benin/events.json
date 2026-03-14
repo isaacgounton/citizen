@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Fête Nationale du Vodun",
+    "date": "2027-01-10",
+    "type": "national_holiday",
+    "description": "Journée nationale célébrant le patrimoine Vodun du Bénin, inscrite au patrimoine culturel immatériel de l'humanité par l'UNESCO",
+    "recurring": true,
+    "last_updated": "2026-03-14"
+  },
+  {
+    "name": "Fête de l'Indépendance du Bénin",
+    "date": "2026-08-01",
+    "type": "national_holiday",
+    "description": "Célébration de l'indépendance du Bénin proclamée le 1er août 1960, anciennement Dahomey sous la colonisation française",
+    "recurring": true,
+    "last_updated": "2026-03-14"
+  },
+  {
+    "name": "Tabaski (Aïd el-Kébir)",
+    "date": "2026-06-07",
+    "type": "religious_holiday",
+    "description": "Fête du sacrifice célébrée par la communauté musulmane du Bénin, marquant la soumission d'Ibrahim à Dieu",
+    "recurring": true,
+    "last_updated": "2026-03-14"
+  },
+  {
+    "name": "Noël",
+    "date": "2026-12-25",
+    "type": "national_holiday",
+    "description": "Fête chrétienne célébrée nationalement au Bénin, jour férié officiel",
+    "recurring": true,
+    "last_updated": "2026-03-14"
+  },
+  {
+    "name": "Élections Législatives",
+    "date": "2027-01-28",
+    "type": "civic_event",
+    "description": "Renouvellement de l'Assemblée Nationale du Bénin. Les citoyens sont appelés à voter pour leurs représentants au Parlement",
+    "recurring": false,
+    "last_updated": "2026-03-14"
+  },
+  {
+    "name": "Journée Nationale de la Jeunesse",
+    "date": "2026-04-01",
+    "type": "national_holiday",
+    "description": "Journée dédiée à la jeunesse béninoise, célébrant les réalisations et le potentiel des jeunes citoyens",
+    "recurring": true,
+    "last_updated": "2026-03-14"
+  }
+]

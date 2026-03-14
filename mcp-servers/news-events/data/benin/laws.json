@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Code du Numérique",
+    "year": 2017,
+    "description": "Loi portant sur la réglementation du numérique au Bénin, incluant la protection des données personnelles, la cybersécurité, les transactions électroniques et l'identité numérique des citoyens",
+    "topics": ["digital", "data_protection", "cybersecurity"],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "title": "Code Electoral du Bénin",
+    "year": 2019,
+    "description": "Loi portant révision du code électoral, définissant les règles d'organisation des élections présidentielles, législatives et communales, ainsi que les conditions d'éligibilité des candidats",
+    "topics": ["elections", "democracy", "civic_rights"],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "title": "Loi sur la Décentralisation et la Gouvernance Locale",
+    "year": 2021,
+    "description": "Loi renforçant le transfert de compétences et de ressources de l'État vers les communes, visant à améliorer la gouvernance locale et la participation citoyenne au niveau municipal",
+    "topics": ["decentralization", "local_governance", "municipalities"],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "title": "Loi sur la Lutte contre la Corruption",
+    "year": 2020,
+    "description": "Loi instituant des mécanismes renforcés de prévention et de répression de la corruption au Bénin, créant l'Autorité Nationale de Lutte contre la Corruption (ANLC) et définissant les sanctions applicables",
+    "topics": ["corruption", "governance", "transparency"],
+    "last_updated": "2026-03-14"
+  },
+  {
+    "title": "Code du Travail du Bénin",
+    "year": 2017,
+    "description": "Révision du code du travail fixant les droits et obligations des travailleurs et des employeurs, incluant les dispositions sur le salaire minimum, les congés, et la protection contre le licenciement abusif",
+    "topics": ["labor", "workers_rights", "employment"],
+    "last_updated": "2026-03-14"
+  }
+]
